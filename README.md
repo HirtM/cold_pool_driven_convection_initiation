@@ -9,3 +9,5 @@ Plots for RQ1 + RQ2 are in the first notebook, linear causal graph analysis (RQ3
 Data relevant for this repository is based on the HDCP2 ICON-LEM simulations (http://hdcp2.eu/index.php?id=5013&L=276). The postprocessed data will be made available by https://data.ub.uni-muenchen.de/.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HirtM/cold_pool_driven_convection_initiation/master)
+
+[![DOI](https://zenodo.org/badge/203198595.svg)](https://zenodo.org/badge/latestdoi/203198595)
